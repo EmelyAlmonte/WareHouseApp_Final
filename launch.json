@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "WarehouseApp",
+            "request": "launch",
+            "mainClass": "Main",
+            "sourcePaths": ["src"],
+            "classPaths": ["out", "lib/mysql-connector.jar"]
+        }
+    ]
+}
